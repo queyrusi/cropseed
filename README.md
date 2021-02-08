@@ -1,3 +1,4 @@
 # cropseed
-[![Version](https://badge.fury.io/gh/tterb%2FHyde.svg)](https://badge.fury.io/gh/tterb%2FHyde)
+[![Version](https://img.shields.io/badge/version-1.0-brightgreen)](https://img.shields.io/badge/version-1.0-brightgreen)
+
 Notebooks surrounding seed classification and segmentation.
