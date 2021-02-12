@@ -8,3 +8,5 @@ Notebooks surrounding seed classification and segmentation.
 
 ## Files are stored in Google Drive
 https://drive.google.com/drive/folders/1qu5KBWEnz2WA2ENp7D02xJQ0AJrdGhoM?usp=sharing
+
+## Usage todo
