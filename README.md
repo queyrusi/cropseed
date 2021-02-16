@@ -6,7 +6,7 @@ Notebooks surrounding seed classification and segmentation.
 + [Basic corn/wheat seed classification with data augmentation, and classic detection method](https://github.com/queyrusi/cropseed/blob/main/crop_seed_classifier.ipynb)
 + Mask R-CNN instance segmentation and inference of various crop seed images
 
-## Files are stored in Google Drive
+## Large files are stored in Google Drive
 https://drive.google.com/drive/folders/1qu5KBWEnz2WA2ENp7D02xJQ0AJrdGhoM?usp=sharing
 
 ## Usage todo
