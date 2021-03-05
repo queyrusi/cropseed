@@ -1,6 +1,6 @@
 # cropseed: Crop Seed Classification and Segmentation Exploration
 
-Notebooks surrounding seed classification and segmentation.
+Notebooks surrounding seed classification and segmentation. Second notebook is part of a project for a course at ENSTA Paris.
 
 ## Main Files in the repository
 + [Basic corn/wheat seed classification with data augmentation, and classic detection method](https://github.com/queyrusi/cropseed/blob/main/crop_seed_classifier.ipynb)
