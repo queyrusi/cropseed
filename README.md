@@ -1,4 +1,4 @@
-# cropseed: Crop Seed Classification and Segmentation Exploration
+# Crop Seed Classification and Segmentation Exploration
 
 Notebooks surrounding seed classification and segmentation. Second notebook is part of a project for a course at ENSTA Paris.
 
